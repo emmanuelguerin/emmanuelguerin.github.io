@@ -1,0 +1,1 @@
+import{d as a,z as c,o as r,b as n,e as l,i}from"./modules/vue-3jFfoD2Z.js";import{u as p}from"./slidev/context-C9lxkuCn.js";const m={class:"grid place-content-center"},d=["src"],x=a({__name:"Centered",props:{src:{},extraclass:{}},setup(e){p();const s=e,t=c(()=>"."+s.src);return(o,_)=>(r(),n("div",m,[l("img",{src:t.value,class:i(o.extraclass)},null,10,d)]))}});export{x as _};
